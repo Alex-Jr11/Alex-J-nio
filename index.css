@@ -1,0 +1,71 @@
+/* Estilos CSS separados */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #ffb84d;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+section {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2, h3 {
+    color: #ffb84d;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+}
+
+head {
+background-image: url('imagem2.jpg.jpg');
+background-size: cover;
+background-position: center;
+color: white;
+text-align: center;
+padding: 20px;
+
+
+ img {
+ max-width: 100%;
+ height: auto;
+ border-radius: 5px;}
+ } 
+/* Estilização para fundo do body */
+body {
+    background-image: url('33.jpg');
+    background-size: cover;
+    background-position: right;
+    max-width: 100%;
+    height: auto;
+}
+
