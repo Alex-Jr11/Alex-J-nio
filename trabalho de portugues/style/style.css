@@ -3,7 +3,7 @@ body {
     padding: 0;
     box-sizing: border-box;
     font-family: Arial, sans-serif;
-    background-color: rgb(247, 255, 179);
+    background-color: rgb(34, 165, 121);
     background-image: url("../imagens/imagem3.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -12,8 +12,8 @@ body {
 }
 
 header {
-    background-color: #fdf692;
-    color: white;
+    background-color: #F2EBC9;
+    color: #51768C;
     text-align: center;
     padding: 20px;
 }
@@ -25,17 +25,41 @@ main {
 }
 
 section {
-    background-color: white;
+    background-color: #F2EBC9;
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-h2, h3 {
-    color: #ffb84d;
+h2{
+    color: #5BD9AB;
+    text-align: center;
+    font-size: 187.5%;
+    font-family: Arial,sans-serif;
 }
 
+h3{
+    color: #9AD2D9;
+    font-family: Arial,sans-serif;
+    font-size: 150%;
+}
+
+p{
+    font-size: 122.5%;
+    color: black;
+    font-family: Arial,sans-serif;
+    text-align: justify;
+    text-indent: 2%;
+}
+
+li{
+    font-size: 122.5%;
+    color: black;
+    font-family: Arial,sans-serif;
+    text-align: justify;
+    text-indent: 2%;
+}
 img {
     max-width: 100%;
     height: auto;
@@ -46,18 +70,10 @@ img {
 footer {
     text-align: center;
     padding: 20px;
-    background-color: #327532;
+    background-color: #F2EBC9 ;
     color: white;
 }
 
-head {
-background-image: url('imagem2.jpg.jpg');
-background-size: cover;
-background-position: center;
-color: white;
-text-align: center;
-padding: 20px;
-}
 
 img {
  max-width: 100%;
@@ -65,12 +81,4 @@ img {
  border-radius: 5px;
 }
  
-/* Estilização para fundo do body */
-/*body {
-    background-image: url('33.jpg');
-    background-size: cover;
-    background-position: right;
-    max-width: 100%;
-    height: auto;
-}
 
